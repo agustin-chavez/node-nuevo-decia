@@ -1,0 +1,86 @@
+{
+  "transactions": [
+    {
+      "value": "340.30",
+      "description": "T-Shirt Black/M",
+      "method": "credit_card",
+      "cardNumber": "3486",
+      "cardHolderName": "Fonsi Julian",
+      "cardExpirationDate": "04/28",
+      "cardCvv": "290",
+      "id": "KiV2szQ"
+    },
+    {
+      "id": "afed",
+      "value": "340.30",
+      "description": "T-Shirt Black/M",
+      "method": "credit_card",
+      "cardNumber": "3486",
+      "cardHolderName": "Fonsi Julian",
+      "cardExpirationDate": "04/28",
+      "cardCvv": "290"
+    },
+    {
+      "id": "95fb",
+      "value": "340.30",
+      "description": "T-Shirt Black/M",
+      "method": "credit_card",
+      "cardNumber": "3486",
+      "cardHolderName": "Fonsi Julian",
+      "cardExpirationDate": "04/28",
+      "cardCvv": "290"
+    },
+    {
+      "id": "8ef4",
+      "value": "340.30",
+      "description": "T-Shirt Black/M",
+      "method": "credit_card",
+      "cardNumber": "3486",
+      "cardHolderName": "Fonsi Julian",
+      "cardExpirationDate": "04/28",
+      "cardCvv": "290"
+    }
+  ],
+  "payables": [
+    {
+      "id": "1",
+      "status": "paid",
+      "create_date": "15/03/2020",
+      "subtotal": "200",
+      "discount": "4",
+      "total": "196"
+    },
+    {
+      "id": "2",
+      "status": "paid",
+      "create_date": "15/03/2020",
+      "subtotal": "100",
+      "discount": "2",
+      "total": "98"
+    },
+    {
+      "id": "3",
+      "status": "waiting_funds",
+      "create_date": "15/03/2020",
+      "subtotal": "100",
+      "discount": "2",
+      "total": "98"
+    },
+    {
+      "id": "7801",
+      "status": "waiting_funds",
+      "create_date": "Tue Mar 19 2024 18:18:55 GMT-0300 (Argentina Standard Time)30",
+      "total": "340.30",
+      "discount": 13.612,
+      "subtotal": 326.688
+    },
+    {
+      "id": "d509",
+      "status": "waiting_funds",
+      "create_date": "Tue Mar 19 2024 18:22:46 GMT-0300 (Argentina Standard Time)30",
+      "total": "340.30",
+      "discount": 13.612,
+      "subtotal": 326.688
+    }
+  ]
+}
