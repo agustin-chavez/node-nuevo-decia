@@ -1,0 +1,19 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "description": "Ways to create a Node.js server",
+  "main": "01-server-using-http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustín Chávez",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^10.3.3",
+    "@nestjs/core": "^10.3.3",
+    "express": "^4.18.3",
+    "reflect-metadata": "^0.2.1",
+    "rxjs": "^7.8.1"
+  }
+}
