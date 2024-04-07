@@ -295,3 +295,4 @@ Los antipatrones, también conocidos como "patrones antipáticos" o "antipatrone
 - Código "hardcodeado": Incluir valores literales directamente en el código en lugar de usar constantes o configuraciones externas. Esto hace que el código sea menos flexible y más difícil de mantener.
 
 Evitar estos antipatrones puede ayudar a mejorar la calidad y la mantenibilidad del código, así como a facilitar el trabajo colaborativo entre desarrolladores.
+
